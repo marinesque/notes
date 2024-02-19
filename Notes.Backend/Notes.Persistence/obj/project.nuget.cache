@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3e5KCJnh22hvZJgsSD+pdk6mJbLbcPkwkGfSIJGA2JJTpBZG1XrPj/moTB5SUgGGddUMXcYobn6zUA6zUTH7VA==",
+  "dgSpecHash": "EY5d2tUDiBghwjK7h6c4z+U+yT787XHYj9ZUVQSIW2FlhYLZfbJF7FnNBGvGNGl1DTW54wyu596Gl/Ya/J1BBQ==",
   "success": true,
   "projectFilePath": "/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "/home/marinesque/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/marinesque/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DYM0vcRch4CE2FkH7hX4zYR3U4aNKg0pP6lrj0zRlPDL2jIJEotDa//YTowmz7gGnZ+OepyPSSsoSxhznrWOow==",
+  "dgSpecHash": "zA6XiMokq1i5d7mkiCOemUkv5ZC7Y869DaUN31xJOKoA+sb6yvukOeYxjDLTdG/xS2nf6EbhknvyNHRMAQ7drA==",
   "success": true,
   "projectFilePath": "/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/Notes.Application.csproj",
   "expectedPackageFiles": [
     "/home/marinesque/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/marinesque/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.entityframeworkcore/5.0.5/microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.5/microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
