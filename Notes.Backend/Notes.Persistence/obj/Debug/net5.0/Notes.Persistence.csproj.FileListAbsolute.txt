@@ -1,0 +1,17 @@
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.deps.json
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/ref/Notes.Persistence.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.pdb
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Application.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Domain.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Application.pdb
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Domain.pdb
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.AssemblyReference.cache
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.AssemblyInfoInputs.cache
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.AssemblyInfo.cs
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.CoreCompileInputs.cache
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.CopyComplete
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/ref/Notes.Persistence.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.pdb

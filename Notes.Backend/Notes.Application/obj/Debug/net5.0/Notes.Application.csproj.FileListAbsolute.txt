@@ -1,0 +1,15 @@
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Application.deps.json
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Application.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/bin/Debug/net5.0/ref/Notes.Application.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Application.pdb
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Domain.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Domain.pdb
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.csproj.AssemblyReference.cache
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.AssemblyInfoInputs.cache
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.AssemblyInfo.cs
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.csproj.CoreCompileInputs.cache
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.csproj.CopyComplete
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/ref/Notes.Application.dll
+/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.pdb
