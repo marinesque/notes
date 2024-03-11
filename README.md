@@ -1,2 +1,2 @@
 # notes
-По мотивам https://youtu.be/dO2RQ-35J2A?feature=shared.
+По мотивам https://www.youtube.com/playlist?list=PLEtg-LdqEKXbpq4RtUp1hxZ6ByGjnvQs4
