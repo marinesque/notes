@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cQXQ1bepAKd1s5Z8VBLlByXEP2M7GkT0HtJTJ5DIR5orBLAHKP1rwlRMzSHaHlFFVziuY4swsFd28aAXchPHwA==",
+  "dgSpecHash": "3CQtz3u1rwRxe0ogYzerV+hy6HO21jgRDFvb7enlq6a4CyB+a6vC8Ri/N1ZazXJ5YK5EbwEp81NpZpp3IQVNvw==",
   "success": true,
   "projectFilePath": "/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.WebApi/Notes.WebApi.csproj",
   "expectedPackageFiles": [
     "/home/marinesque/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/home/marinesque/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/home/marinesque/.nuget/packages/fluentvalidation/10.1.0/fluentvalidation.10.1.0.nupkg.sha512",
+    "/home/marinesque/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.1.0/fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

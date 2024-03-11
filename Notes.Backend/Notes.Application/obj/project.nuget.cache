@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ot93OVAlgsPgkt5OPhPSpv2BBjE4c2kyCbcSXwQ0JxIq0PMMD5rp2AfXYkeNi9rO0r1bkn0z97/gZOVKXMqleA==",
+  "dgSpecHash": "vG20bOGBmAhzYLyAzwlh9aeGPVkXYFg1iqFwg8vIBskVoswbwsHyURsbrl2KrwQ24CTvTdknwMvmHZPqnW5d6Q==",
   "success": true,
   "projectFilePath": "/home/marinesque/Documents/GitRepositories/notes/Notes.Backend/Notes.Application/Notes.Application.csproj",
   "expectedPackageFiles": [
     "/home/marinesque/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/marinesque/.nuget/packages/fluentvalidation/10.1.0/fluentvalidation.10.1.0.nupkg.sha512",
+    "/home/marinesque/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.1.0/fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/home/marinesque/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

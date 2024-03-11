@@ -37,7 +37,7 @@ namespace Notes.WebApi
             services.AddPersistence(Configuration);
             services.AddControllers();
             
-            //CORS совиместное использование ресурсов, для доступа к данным другого домена
+            //CORS совместное использование ресурсов, для доступа к данным другого домена
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll", policy =>
